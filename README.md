@@ -39,11 +39,11 @@ Ejemplos de gráficos generados en Python:
 </p>
 
 <p align="center">
-  <img src="slides/Industry Overview.png" width="600">
+  <img src="slides/IndustryOverview.png" width="600">
 </p>
 
 <p align="center">
-  <img src="slides/Company Overview.png" width="600">
+  <img src="slides/CompanyOverview.png" width="600">
 </p>
 
 ---
