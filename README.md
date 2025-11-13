@@ -35,15 +35,15 @@ El análisis completo puede consultarse en el siguiente notebook:
 Ejemplos de gráficos generados en Python:
 
 <p align="center">
-  <img src="slides/Portada.png" width="600">
+  <img src="Portada.png" width="600">
 </p>
 
 <p align="center">
-  <img src="slides/IndustryOverview.png" width="600">
+  <img src="IndustryOverview.png" width="600">
 </p>
 
 <p align="center">
-  <img src="slides/CompanyOverview.png" width="600">
+  <img src="CompanyOverview.png" width="600">
 </p>
 
 ---
