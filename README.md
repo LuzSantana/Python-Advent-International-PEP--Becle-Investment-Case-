@@ -31,8 +31,8 @@ El análisis completo puede consultarse en el siguiente notebook:
 
 ---
 
-## 🖼️ Visualizaciones
-Ejemplos de gráficos generados en Python:
+## 🖼️ Resultados
+Gráficos generados en Python:
 
 <p align="center">
   <img src="Portada.png" width="600">
